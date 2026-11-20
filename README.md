@@ -14,7 +14,4 @@ Ciclo 3.2
 🟢 VERDE: el código mínimo para pasar
 <img width="766" height="65" alt="image" src="https://github.com/user-attachments/assets/f873432d-87b6-47ca-9bef-53c4a04b5160" />
 
-Ciclo 3.3 · Crear, buscar y eliminar
-🔴 ROJO: escribe la prueba (debe FALLAR)
-🟢 VERDE: el código mínimo para pasar
-<img width="792" height="51" alt="image" src="https://github.com/user-attachments/assets/2511eb6b-8d88-49ae-905c-
+
